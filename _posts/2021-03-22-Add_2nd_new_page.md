@@ -14,9 +14,10 @@ THis is also __BOLD__
 **After changed to Kramdown and _config.yml**
 
 This is link, www.msn.com
-To escape link put `` in front of the link
-This is link, ``www.msn.com``
-Output
+To escape link put \` in front of the link  
+This is link, \`www.msn.com\`  
+
+Output  
 This is link, `www.msn.com`
 
 # Header 1
