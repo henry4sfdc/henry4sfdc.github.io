@@ -1,6 +1,6 @@
 ---
 layout: post
-title: You're up and running! Go ahead and test it. 
+title: 2nd Test Page
 ---
 
 
