@@ -9,6 +9,8 @@ Test Page
 
 This is #BOLD# 
 
+THis is alos __BOLD__
+
 
 # Header 1
 ## Header 2
