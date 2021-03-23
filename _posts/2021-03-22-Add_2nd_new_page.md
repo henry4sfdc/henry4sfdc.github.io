@@ -11,6 +11,8 @@ This is #BOLD#
 
 THis is alos __BOLD__
 
+**After changed to Kramdown**
+
 
 # Header 1
 ## Header 2
