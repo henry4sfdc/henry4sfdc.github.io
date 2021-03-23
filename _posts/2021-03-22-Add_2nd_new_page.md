@@ -11,7 +11,8 @@ This is #BOLD#
 
 THis is alos __BOLD__
 
-**After changed to Kramdown**
+**After changed to Kramdown and _config.yml**
+
 
 
 # Header 1
