@@ -9,7 +9,7 @@ Test Page
 
 This is **BOLD** 
 
-THis is alos __BOLD__
+THis is also __BOLD__
 
 **After changed to Kramdown and _config.yml**
 
