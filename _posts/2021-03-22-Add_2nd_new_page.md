@@ -6,7 +6,9 @@ title: 2nd Test Page
 
 
 Test Page
-=========
+
+This is BOLD 
+       =====
 
 # Header 1
 ## Header 2
