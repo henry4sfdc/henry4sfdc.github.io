@@ -7,7 +7,7 @@ title: 2nd Test Page
 
 Test Page
 
-This is #BOLD# 
+This is **BOLD** 
 
 THis is alos __BOLD__
 
